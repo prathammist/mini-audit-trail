@@ -29,7 +29,7 @@ Click below to try the application online:
 https://mini-audit-trail-alpha.vercel.app/
 
 📦 GitHub Repository:  
-👉 https://github.com/usmanshaik6/mini-audit-trail
+👉 https://github.com/prathammist/mini-audit-trail
 
 ---
 
